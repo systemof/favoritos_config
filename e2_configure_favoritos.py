@@ -15,10 +15,10 @@ import unicodedata
 
 CONFIG = {
     'devmode': False,
-    'updateurl': "https://raw.githubusercontent.com/josemoraes99/enigma2_custom_bouquet/master/e2_configure_favoritos.py",
-    'scriptsurl': "https://raw.githubusercontent.com/josemoraes99/enigma2_custom_bouquet/master/",
+    'updateurl': "https://raw.githubusercontent.com/systemof/favoritos_config/main/e2_configure_favoritos.py",
+    'scriptsurl': "https://raw.githubusercontent.com/systemof/favoritos_config/master/",
     'e2_conf_path': '/etc/enigma2/',
-    'customBouquetName': 'userbouquet.netcabo.tv',
+    'customBouquetName': 'userbouquet.clarotvcabo.tv',
     'urlPicons': "https://hk319yfwbl.execute-api.sa-east-1.amazonaws.com/prod",
 }
 
