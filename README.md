@@ -1,8 +1,7 @@
 # favoritos_config
 # e2_configure_favoritos
 
-Script para gerar canais ordenados para o pixel com e2, criando um bouquet chamado Clarocabo
-Creditos para o josemoraes99 criador do script,apenas correção no código.. https://github.com/josemoraes99
+Script para gerar canais ordenados para o pixel com e2, criando um bouquet chamado Clarocabo,apenas correção no código.. https://github.com/josemoraes99
 
 
 ## Instalação
